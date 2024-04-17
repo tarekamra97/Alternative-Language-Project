@@ -31,5 +31,5 @@ This project leverages java to perform detailed analysis and manipulation of a d
 The java-based analysis of cell phone data provided insights into manufacturing trends, product features, and market dynamics. The project showcases java's capabilities in handling complex data sets and performing sophisticated data analysis to derive meaningful insights.
 
 ## Output Screenshots
-(Screenshots of the outputs from running the scripts could be included here to visually represent the results mentioned above.)
+![Output Screenshot](output.jpeg)
 
