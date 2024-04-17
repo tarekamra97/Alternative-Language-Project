@@ -9,7 +9,7 @@ This project leverages java to perform detailed analysis and manipulation of a d
 
 ## java Features and Usage
 - **Object-Oriented Programming (OOP):** The project utilizes OOP to structure data in classes, allowing for more organized and scalable code. A `Cell` class encapsulates phone data with methods for data cleaning and analysis.
-- **File Ingestion:** Utilizes `pandas`, a powerful data manipulation library, to ingest data from CSV files efficiently.
+- **File Ingestion:** Utilizes `HashMap`,regex and stream a powerful data manipulation library, to ingest data from CSV files efficiently.
 - **Conditional Statements and Loops:** Employed throughout to handle data processing logic.
 - **Assignment Statements:** Used for setting and modifying data stored in variables and object attributes.
 - **Functions/Methods:** The project defines multiple class methods for performing operations like calculating statistics and filtering data based on specific criteria.
@@ -17,7 +17,7 @@ This project leverages java to perform detailed analysis and manipulation of a d
 - **Exception Handling:** Robust exception handling mechanisms are implemented to manage potential runtime errors effectively.
 
 ## Libraries Used
-- **Pandas:** For reading CSV files and managing data in DataFrame structures, facilitating easy data manipulation.
+- **Pandas:** For reading CSV files and managing data in data structures, facilitating easy data manipulation.
 - **Re (Regular Expressions):** Used for parsing and extracting specific patterns from string data, critical for data cleaning tasks.
 - **Statistics:** Utilized for computing mathematical statistics like mean, median, and standard deviation necessary for analysis.
 
